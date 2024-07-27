@@ -9,4 +9,6 @@ This plugin aims to bring quality of life features with not too much fluff.
 
 # Roadmap
 
-- [ ] https://github.com/SirDizzypanda/XtrPlugin/issues/3
+- [ ] Roadmap objectives
+- [ ] fill this out as you go
+- [ ] x out the ones that are done
