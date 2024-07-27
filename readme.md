@@ -9,5 +9,5 @@ This plugin aims to bring quality of life features with not too much fluff.
 
 # Roadmap
 
-- [ ] Create issue and put its id for roadmap like below
-- [ ] #1
+- [ ] #3
+- [ ] 
